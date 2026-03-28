@@ -1,11 +1,11 @@
 ![Orion Editor Logo](./resources/full_logo.jpeg)  
-A **better** code editor made for people on Khan Academy.  
-
----
+A better code editor made for people on Khan Academy.  
+##
 ### Links
 **[Online Editor](https://awesomeorion.vercel.app/)**  
 **[Khan Academy Page](https://www.khanacademy.org/computer-programming/orion-editor-v07-launch/6538929749737472)**
-## Features
+##
+### Features
 - Live autocompletion
 - Code Beautification
 - Fullscreen Previews
